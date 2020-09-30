@@ -1,0 +1,9 @@
+body {
+    background-image: linear-gradient( rgb(97, 245, 97), rgb(18, 102, 18));
+}
+
+.col-md-7 {
+    background-color: rgb(83, 233, 163);
+    color: rgb(97, 19, 43);
+    border: 3px solid black;
+}
